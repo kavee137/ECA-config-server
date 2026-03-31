@@ -29,7 +29,7 @@ spring:
       server:
         git:
           uri: https://github.com/kavee137/ECA-Config-Repo.git
-          search-paths: platform,services
+
         native:
           search-locations:
             - classpath:/configurations
